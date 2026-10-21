@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" tvg-chno="15" tvg-country="HU" group-title="Magyar",ATV
+http://88.212.15.17/live/test_atv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL Klub" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-chno="13" tvg-country="HU" group-title="Magyar",RTL Klub
+http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.hu" tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" tvg-chno="14" tvg-country="HU" group-title="Magyar",TV2
+http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="HirTV.hu" tvg-name="Hír TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" tvg-chno="4" tvg-country="HU" group-title="Magyar",Hír TV
+https://onlinestream.live/play.m3u?id=4740&ext=.m3u

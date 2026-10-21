@@ -2,8 +2,8 @@
   "dock_apps": [
     "com.amazon.amazonvideo.livingroom",
     "com.google.android.youtube.tv",
-    "org.xbmc.kodi",
-    "com.android.vending"
+    "hu.telekomnewmedia.android.rtlmost",
+    "ar.tvplayer.tv"
   ],
   "hidden_apps": [
     "com.sony.dtv.tvx"
